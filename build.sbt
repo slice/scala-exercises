@@ -1,2 +1,2 @@
-ThisBuild / organization := "pond"
-ThisBuild / scalaVersion := "2.13.1"
+ThisBuild / organization := "zone.slice"
+ThisBuild / scalaVersion := "2.13.2"
